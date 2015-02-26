@@ -1,3 +1,2 @@
 # Tools
-        
-               .::: Development tools for CMS data analysis :::. 
+Development tools for CMS data analysis 
